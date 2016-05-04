@@ -1,4 +1,4 @@
-# got-analysis
+# got-predictions
 
 Making predictions about season 6 of Game of Thrones. Scrapes the text from the TV show wiki.
 
