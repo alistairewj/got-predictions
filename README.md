@@ -17,7 +17,7 @@ I'm treating false positives of the model as the "predictions" for season 6.
 
 Top 10 predictions:
 
-
+```
 Robin_Arryn          - 94.07%
 Tommen_Baratheon     - 74.46%
 Rickon_Stark         - 72.01%
@@ -28,5 +28,6 @@ Arya_Stark           - 63.93%
 Bran_Stark           - 62.56%
 Davos_Seaworth       - 54.56%
 Sansa_Stark          - 53.89%
+```
 
 Note: somebody informed me Tysha already died... oops...
